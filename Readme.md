@@ -1,13 +1,19 @@
 # Assignment 1: Basic HTML Concepts
 This assignment focuses on learning fundamental HTML topics. Below is a list of the concepts covered in this assignment.
+----
+        Dr. Aryan Jaswal
+-----
 
+----
+        aryanjaswaliit@gmail.com
+-----
 ## Topics Covered
 ### Heading Tags and Bold Text:
 Understanding the usage and significance of heading tags (h1-h6) and how to create bold text within HTML.
-![Heading  Tags](https://github.com/aryanjaswaliit/illu_assiment_1/blob/master/headline.png?raw=true)
+![Heading  Tags](https://github.com/aryanjaswaliit/illu_assiment_1/blob/master/1.headline/headline.png?raw=true)
 ### Inserting Images: 
 Learning how to insert and display images on a webpage using HTML.
-![Inserting Images](https://github.com/aryanjaswaliit/illu_assiment_1/blob/master/image.png?raw=ture)
+![Inserting Images](https://github.com/aryanjaswaliit/illu_assiment_1/blob/master/2.insert_images/image.png?raw=ture)
 
 ### Concept of Div: 
 Exploring the concept of <div> tags, which are used to create containers or sections within an HTML document.
